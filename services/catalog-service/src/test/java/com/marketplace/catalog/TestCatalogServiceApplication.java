@@ -1,4 +1,4 @@
-package com.marketplace.catalog_service;
+package com.marketplace.catalog;
 
 import org.springframework.boot.SpringApplication;
 
